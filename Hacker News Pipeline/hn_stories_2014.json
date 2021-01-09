@@ -1,0 +1,176 @@
+{
+    "stories": [
+        {
+            "story_text": "",
+            "created_at": "2014-05-29T08:25:40Z",
+            "story_title": null,
+            "story_id": null,
+            "comment_text": null,
+            "created_at_i": 1401351940,
+            "url": "https://duckduckgo.com/settings",
+            "parent_id": null,
+            "objectID": "7815290",
+            "author": "TuxLyn",
+            "points": 1,
+            "title": "DuckDuckGo Settings",
+            "_tags": [
+                "story",
+                "author_TuxLyn",
+                "story_7815290"
+            ],
+            "num_comments": 0,
+            "_highlightResult": {
+                "story_text": {
+                    "matchedWords": [],
+                    "value": "",
+                    "matchLevel": "none"
+                },
+                "author": {
+                    "matchedWords": [],
+                    "value": "TuxLyn",
+                    "matchLevel": "none"
+                },
+                "url": {
+                    "matchedWords": [],
+                    "value": "https://duckduckgo.com/settings",
+                    "matchLevel": "none"
+                },
+                "title": {
+                    "matchedWords": [],
+                    "value": "DuckDuckGo Settings",
+                    "matchLevel": "none"
+                }
+            },
+            "story_url": null
+        },
+        {
+            "story_text": "",
+            "created_at": "2014-05-29T08:23:46Z",
+            "story_title": null,
+            "story_id": null,
+            "comment_text": null,
+            "created_at_i": 1401351826,
+            "url": "http://bits.blogs.nytimes.com/2014/05/28/making-twitter-easier-to-use/",
+            "parent_id": null,
+            "objectID": "7815285",
+            "author": "Leynos",
+            "points": 1,
+            "title": "Making Twitter Easier to Use",
+            "_tags": [
+                "story",
+                "author_Leynos",
+                "story_7815285"
+            ],
+            "num_comments": 0,
+            "_highlightResult": {
+                "story_text": {
+                    "matchedWords": [],
+                    "value": "",
+                    "matchLevel": "none"
+                },
+                "author": {
+                    "matchedWords": [],
+                    "value": "Leynos",
+                    "matchLevel": "none"
+                },
+                "url": {
+                    "matchedWords": [],
+                    "value": "http://bits.blogs.nytimes.com/2014/05/28/making-twitter-easier-to-use/",
+                    "matchLevel": "none"
+                },
+                "title": {
+                    "matchedWords": [],
+                    "value": "Making Twitter Easier to Use",
+                    "matchLevel": "none"
+                }
+            },
+            "story_url": null
+        },
+        {
+            "story_text": "",
+            "created_at": "2014-05-29T08:21:56Z",
+            "story_title": null,
+            "story_id": null,
+            "comment_text": null,
+            "created_at_i": 1401351716,
+            "url": "http://www.bbc.co.uk/news/technology-27617079",
+            "parent_id": null,
+            "objectID": "7815279",
+            "author": "darrhiggs",
+            "points": 2,
+            "title": "London refers Uber app row to High Court",
+            "_tags": [
+                "story",
+                "author_darrhiggs",
+                "story_7815279"
+            ],
+            "num_comments": 0,
+            "_highlightResult": {
+                "story_text": {
+                    "matchedWords": [],
+                    "value": "",
+                    "matchLevel": "none"
+                },
+                "author": {
+                    "matchedWords": [],
+                    "value": "darrhiggs",
+                    "matchLevel": "none"
+                },
+                "url": {
+                    "matchedWords": [],
+                    "value": "http://www.bbc.co.uk/news/technology-27617079",
+                    "matchLevel": "none"
+                },
+                "title": {
+                    "matchedWords": [],
+                    "value": "London refers Uber app row to High Court",
+                    "matchLevel": "none"
+                }
+            },
+            "story_url": null
+        },
+        {
+            "story_text": "",
+            "created_at": "2014-05-29T08:18:42Z",
+            "story_title": null,
+            "story_id": null,
+            "comment_text": null,
+            "created_at_i": 1401351522,
+            "url": "http://nomination.younggloballeaders.org/nominationform.aspx",
+            "parent_id": null,
+            "objectID": "7815274",
+            "author": "a159482a",
+            "points": 1,
+            "title": " Young Global Leaders, who should be nominated? (World Economic Forum)",
+            "_tags": [
+                "story",
+                "author_a159482a",
+                "story_7815274"
+            ],
+            "num_comments": 1,
+            "_highlightResult": {
+                "story_text": {
+                    "matchedWords": [],
+                    "value": "",
+                    "matchLevel": "none"
+                },
+                "author": {
+                    "matchedWords": [],
+                    "value": "a159482a",
+                    "matchLevel": "none"
+                },
+                "url": {
+                    "matchedWords": [],
+                    "value": "http://nomination.younggloballeaders.org/nominationform.aspx",
+                    "matchLevel": "none"
+                },
+                "title": {
+                    "matchedWords": [],
+                    "value": " Young Global Leaders, who should be nominated? (World Economic Forum)",
+                    "matchLevel": "none"
+                }
+            },
+            "story_url": null
+        }
+    ]
+}
