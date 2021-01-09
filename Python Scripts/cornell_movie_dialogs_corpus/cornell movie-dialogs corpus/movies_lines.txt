@@ -1,0 +1,100 @@
+L1045 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ They do not!
+L1044 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ They do to!
+L985 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ I hope so.
+L984 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ She okay?
+L925 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Let's go.
+L924 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Wow
+L872 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Okay -- you're gonna need to learn how to lie.
+L871 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ No
+L870 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ I'm kidding.  You know how sometimes you just become this "persona"?  And you don't know how to quit?
+L869 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Like my fear of wearing pastels?
+L868 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The "real you".
+L867 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What good stuff?
+L866 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I figured you'd get to the good stuff eventually.
+L865 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Thank God!  If I had to hear one more story about your coiffure...
+L864 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Me.  This endless ...blonde babble. I'm like, boring myself.
+L863 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ What crap?
+L862 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ do you listen to this crap?
+L861 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ No...
+L860 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Then Guillermo says, "If you go any lighter, you're gonna look like an extra on 90210."
+L699 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ You always been this selfish?
+L698 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ But
+L697 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Then that's all you had to say.
+L696 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Well, no...
+L695 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ You never wanted to go out with 'me, did you?
+L694 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ I was?
+L693 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I looked for you back at the party, but you always seemed to be "occupied".
+L663 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tons
+L662 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Have fun tonight?
+L578 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I believe we share an art instructor
+L577 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ You know Chastity?
+L576 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Looks like things worked out tonight, huh?
+L575 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hi.
+L407 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Who knows?  All I've ever heard her say is that she'd dip before dating a guy that smokes.
+L406 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ So that's the kind of guy she likes? Pretty ones?
+L405 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Lesbian?  No. I found a picture of Jared Leto in one of her drawers, so I'm pretty sure she's not harboring same-sex tendencies.
+L404 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ She's not a...
+L403 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I'm workin' on it. But she doesn't seem to be goin' for him.
+L402 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ I really, really, really wanna go, but I can't.  Not unless my sister goes.
+L401 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Sure have.
+L368 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Eber's Deep Conditioner every two days. And I never, ever use a blowdryer without the diffuser attachment.
+L367 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ How do you get your hair to look like that?
+L366 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ You're sweet.
+L365 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ You have my word.  As a gentleman
+L364 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ I counted on you to help my cause. You and that thug are obviously failing. Aren't we ever going on our date?
+L363 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ You got something on your mind?
+L281 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Where?
+L280 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ There.
+L277 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Well, there's someone I think might be --
+L276 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How is our little Find the Wench A Date plan progressing?
+L275 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Forget French.
+L274 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ That's because it's such a nice one.
+L273 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ I don't want to know how to say that though.  I want to know useful things. Like where the good stores are.  How much does champagne cost?  Stuff like Chat.  I have never in my life had to point out my head to someone.
+L272 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Right.  See?  You're ready for the quiz.
+L271 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ C'esc ma tete. This is my head
+L208 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Let me see what I can do.
+L207 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Gosh, if only we could find Kat a boyfriend...
+L206 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ That's a shame.
+L205 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Unsolved mystery.  She used to be really popular when she started high school, then it was just like she got sick of it or something.
+L204 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Why?
+L203 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Seems like she could get a date easy enough...
+L202 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ The thing is, Cameron -- I'm at the mercy of a particularly hideous breed of loser.  My sister.  I can't date until she does.
+L201 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Cameron.
+L200 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ No, no, it's my fault -- we didn't have a proper introduction ---
+L199 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Forget it.
+L198 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ You're asking me out.  That's so cute. What's your name again?
+L197 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Okay... then how 'bout we try out some French cuisine.  Saturday?  Night?
+L196 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Not the hacking and gagging and spitting part.  Please.
+L195 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Well, I thought we'd start with pronunciation, if that's okay with you.
+L194 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Can we make this quick?  Roxanne Korrine and Andrew Barrett are having an incredibly horrendous public break- up on the quad.  Again.
+L953 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ I did.
+L952 +++$+++ u3 +++$+++ m0 +++$+++ CHASTITY +++$+++ You think you ' re the only sophomore at the prom?
+L660 +++$+++ u3 +++$+++ m0 +++$+++ CHASTITY +++$+++ I don't have to be home 'til two.
+L659 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ I have to be home in twenty minutes.
+L600 +++$+++ u3 +++$+++ m0 +++$+++ CHASTITY +++$+++ All I know is -- I'd give up my private line to go out with a guy like Joey.
+L599 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Sometimes I wonder if the guys we're supposed to want to go out with are the ones we actually want to go out with, you know?
+L598 +++$+++ u3 +++$+++ m0 +++$+++ CHASTITY +++$+++ Bianca, I don't think the highlights of dating Joey Dorsey are going to include door-opening and coat-holding.
+L597 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Combination.  I don't know -- I thought he'd be different.  More of a gentleman...
+L596 +++$+++ u3 +++$+++ m0 +++$+++ CHASTITY +++$+++ Is he oily or dry?
+L595 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ He practically proposed when he found out we had the same dermatologist. I mean. Dr. Bonchowski is great an all, but he's not exactly relevant party conversation.
+L580 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Would you mind getting me a drink, Cameron?
+L579 +++$+++ u3 +++$+++ m0 +++$+++ CHASTITY +++$+++ Great
+L573 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Joey.
+L572 +++$+++ u3 +++$+++ m0 +++$+++ CHASTITY +++$+++ Who?
+L571 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Where did he go?  He was just here.
+L51 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ You might wanna think about it
+L50 +++$+++ u3 +++$+++ m0 +++$+++ CHASTITY +++$+++ No.
+L49 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Did you change your hair?
+L760 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ You know the deal.  I can ' t go if Kat doesn't go --
+L759 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ Listen, I want to talk to you about the prom.
+L758 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ You're concentrating awfully hard considering it's gym class.
+L757 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hi, Joey.
+L756 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ Hey, sweet cheeks.
+L593 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ My agent says I've got a good shot at being the Prada guy next year.
+L592 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Neat...
+L591 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ It's a gay cruise line, but I'll be, like, wearing a uniform and stuff.
+L590 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Queen Harry?
+L589 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ So yeah, I've got the Sears catalog thing going -- and the tube sock gig " that's gonna be huge.  And then I'm up for an ad for Queen Harry next week.
+L397 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hopefully.
+L396 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ Exactly  So, you going to Bogey Lowenbrau's thing on Saturday?
+L395 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Expensive?
